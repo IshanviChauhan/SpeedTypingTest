@@ -15,13 +15,13 @@ function Header({ handleThemeMode, theme }: Props) {
     >
       <nav className='container flex-wrap flex-md-nowrap'>
         <a className='navbar-brand' href='/' aria-label='home'>
-          <span className='fw-bold'>Typing</span>Speed Test
+          <span className='fw-bold'>SpeedTypingTest</span>
         </a>
         <ul className='navbar-nav flex-row flex-wrap ms-md-auto'>
           <li className='nav-item col-md-auto me-3'>
             <a
               className='nav-link p-2'
-              href='https://github.com/awran5/react-one-minute-speed-typing-test-ts'
+              href='https://github.com/IshanviChauhan/SpeedTypingTest'
               target='_blank'
               rel='noopener noreferrer'
               aria-label='github'

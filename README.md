@@ -1,53 +1,86 @@
-# React TypeScript one-minute speed typing test
+### React TypeScript One-Minute Speed Typing Test  
 
-> A simple one-minute React app for testing your typing speed.
+A simple, interactive React application built with TypeScript for testing and improving typing speed and accuracy in one-minute sessions.  
 
-<p align="center">
-  <img src="./screenshot.gif" alt="screenshot" />
-</p>
+---
 
-### Instructions
+## 🚀 Features  
+- **Typing Speed Test:** Measures typing speed in words per minute (WPM) and provides real-time progress updates.  
+- **Accuracy Calculation:** Tracks typing accuracy by monitoring errors and correct inputs.  
+- **Dark/Light Mode Support:** Easily switch between light and dark themes.  
+- **Real-Time Feedback:** Highlights errors and tracks progress dynamically.  
+- **Modern Tech Stack:** Developed with React, TypeScript, and modern styling practices.  
 
-- Download or clone the repo:
+---
 
-```bash
-git clone https://github.com/awran5/react-one-minute-speed-typing-test-ts.git
-```
+## 🛠 Installation  
 
-- Install
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/IshanviChauhan/SpeedTypingTest.git  
+   ```  
 
-```bash
-# npm
-npm install
+2. Navigate to the project directory:  
+   ```bash  
+   cd SpeedTypingTest  
+   ```  
 
-# Yarn
-yarn install
-```
+3. Install dependencies:  
+   ```bash  
+   # For npm  
+   npm install  
 
-### v2.1.0 Changelog 11/15/2022
+   # For Yarn  
+   yarn install  
+   ```  
 
-- Updated: dependencies
-- Added: github icons
-- Added: `CPM` state
-- Modified: Refactor style
-- Fixed: Minor bugs
+4. Run the development server:  
+   ```bash  
+   # For npm  
+   npm start  
 
-### v2 Changelog 09/17/2021
+   # For Yarn  
+   yarn start  
+   ```  
 
-- Updated: dependencies
-- Added: light/Dark mode
-- Added: eslint airbnb style
-- Modified: Refactor state to useReducer
-- Fixed: Minor bugs
+---
 
-- none
+## 🔧 Usage  
 
-### [Live Example](https://react-one-minute-speed-typing-test-ts.vercel.app)
+1. Launch the app in your browser (default: `http://localhost:3000`).  
+2. Click the **Start** button to begin the typing test.  
+3. Type the displayed text accurately within one minute.  
+4. View your performance metrics, including WPM, accuracy, and error count.  
 
-<br />
+---
 
-[![Edit react-one-minute-speed-typing-test-ts](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-one-minute-speed-typing-test-ts-q82ux?fontsize=14&hidenavigation=1&theme=dark)
+## 🌐 Live Demo  
+Try out the live version   
 
-### License
+---
 
-MIT © [awran5](https://github.com/awran5/)
+## 💡 Contributing  
+
+1. Fork the repository.  
+2. Create a new branch:  
+   ```bash  
+   git checkout -b feature-branch-name  
+   ```  
+3. Commit your changes:  
+   ```bash  
+   git commit -m "Describe your changes"  
+   ```  
+4. Push to the branch:  
+   ```bash  
+   git push origin feature-branch-name  
+   ```  
+5. Open a pull request.  
+
+---
+
+## 📝 License  
+This project is licensed under the MIT License.  
+
+---
+
+Happy Typing! 🎉  

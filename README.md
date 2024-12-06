@@ -2,6 +2,10 @@
 
 A simple, interactive React application built with TypeScript for testing and improving typing speed and accuracy in one-minute sessions.  
 
+![image](https://github.com/user-attachments/assets/7f286855-6d55-4512-9595-b6d9e3327444)
+
+![image](https://github.com/user-attachments/assets/eb1312e0-775f-4e85-9784-fc2d458118bc)
+
 ---
 
 ## 🚀 Features  
